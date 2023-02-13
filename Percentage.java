@@ -19,7 +19,7 @@ public class UserInput1 {
 		System.out.println("marks in sub 5:"+sub5);
 		float  total=sub1+sub2+sub3+sub4+sub5;
 		System.out.println("Total marks is:"+total);
-		float percentage=((sub1+sub2+sub3+sub4+sub5)/600)*100;
+		float percentage=((sub1+sub2+sub3+sub4+sub5)/500)*100;
 		System.out.println(percentage);
 	}
 
