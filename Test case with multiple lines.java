@@ -1,4 +1,4 @@
-// Solution as follows
+
 import java.util.Scanner;
 
 class Codechef
